@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+dados_PNAD_2014
+
+*.csv
+*.rds
+*.Rds
+*.xlsx
+*.sav
+*.dta
